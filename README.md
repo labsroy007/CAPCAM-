@@ -2,6 +2,8 @@
 
 Environmet used : Jetbrains Dataspell with python 3.9 downloadable from www.python.org
 
+Full paper : https://www.sciencedirect.com/science/article/abs/pii/S156849462400913X
+
 Hardware specifiation : Intel i9-10900k CPU, 128 GB RAM and NVIDIA RTX A4000 - 80GB GPU
 
 Models : All the models can be found inside models folder and the corresponding python executables which are dependent on the model. The attention map, global pool and the utils can onlu be ran after runing the classifer.py with one Deep Learning backbone
